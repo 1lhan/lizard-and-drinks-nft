@@ -1,0 +1,11 @@
+{
+    "description": "The lizard that drinks coffee",
+    "image": "",
+    "name": "Lizard 2",
+    "attributes": [
+        {
+            "trait_type": "drink",
+            "value": "coffee"
+        }
+    ]
+}
